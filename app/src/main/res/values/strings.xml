@@ -1,0 +1,24 @@
+<resources>
+    <string name="name">iMDB-Clone</string>
+    <string name="main">Главная</string>
+    <string name="trands">Новинки</string>
+    <string name="favorite">Любимые</string>
+    <string name="top">Топ</string>
+    <string name="genres">Жанры</string>
+    <string name="info">Инфо поле</string>
+    <string name="lovles">Любимые исполнители</string>
+    <string name="tape">BIG BABY TAPE</string>
+    <string name="miyagi">MIYAGI</string>
+    <string name="app_name">Musifo</string>
+    <string name="regstration">Регистрация</string>
+    <string name="aut">Войти</string>
+    <string name="tape_info">Big Baby Tape  — российский рэп-исполнитель и автор песен. Создатель и негласный лидер музыкального объединения Benzo Gang. Выступает также под псевдонимами DJ Tape и альтер эго Tape LaFlare. Является исполнителем и по совместительству A R лейбла Warner Music Russia...</string>
+    <string name="latest">Последние релизы</string>
+    <string name="first_album">BANDANA I</string>
+    <string name="second_album">ARGUMENTS...</string>
+    <string name="authors">BIG BABY TAPE, kizaru</string>
+    <string name="type_of">Тип: Альбом</string>
+    <string name="genre_of">Жанр: Рэп</string>
+    <string name="year_of">Год релиза: 2021</string>
+    <string name="statistic">Прослушиваний за все время: 134M</string>
+</resources>
